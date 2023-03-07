@@ -1,0 +1,12 @@
+[
+  {
+"status": "success",
+"message": "Todo created successfully",
+"todo": {
+    "title": "to do ke 3",
+"description": "test todo",
+"updated_at": "2022-08-28T06:21:07.000000Z", "created_at": "2022-08-28T06:21:07.000000Z", "id": 4
+} 
+
+}
+]
